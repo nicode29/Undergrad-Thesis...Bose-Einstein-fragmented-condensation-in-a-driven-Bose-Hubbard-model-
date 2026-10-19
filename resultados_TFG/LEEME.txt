@@ -1,0 +1,6 @@
+salidas_guardadas/: figuras PNG y registros recuperados de las salidas del cuaderno.
+Los PNG son imágenes; no contienen las matrices numéricas originales.
+datos_numericos/: se creará al ejecutar la celda final de exportación en el kernel que conserva los resultados.
+No es necesario repetir el barrido de 48,7 minutos si las variables siguen en memoria.
+Si el kernel se reinició, las matrices numéricas no se pueden recuperar de estas salidas guardadas.
+Se exportan NPZ sin pérdida, tablas TXT tabuladas y metadatos JSON.

@@ -1,0 +1,28 @@
+[
+  {
+    "celda": 2,
+    "salida": 1,
+    "tipo": "stream",
+    "texto": "celda_2_salida_1.txt"
+  },
+  {
+    "celda": 8,
+    "salida": 1,
+    "tipo": "display_data",
+    "imagen": "espectro_6_bosones_6_sitios.png",
+    "texto": "celda_8_salida_1.txt"
+  },
+  {
+    "celda": 13,
+    "salida": 1,
+    "tipo": "stream",
+    "texto": "celda_13_salida_1.txt"
+  },
+  {
+    "celda": 14,
+    "salida": 1,
+    "tipo": "display_data",
+    "imagen": "rho_8_bosones_8_sitios.png",
+    "texto": "celda_14_salida_1.txt"
+  }
+]
